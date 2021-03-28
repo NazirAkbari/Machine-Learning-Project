@@ -1,0 +1,12 @@
+*************** Disease Prediction System using Decision Treee As Classification **************
+
+	- by: Mohammad Nazir & Mohammad Mosawer
+	- used:  Python as A language
+	- Libararies: Numpy, Pandas, Matplotlib, mpl_toolkits and Sklearn as Machine Learning Python Libraries
+	- prediction: Give as minimum 2 symptoms and as maximum of 5 symptoms to predict that what Disease will come
+		into the person..
+
+	- Instructor: Pf. Rafiullah Mommand, Machine Learning and Datascience Teacher, 
+
+
+	 ******* KU - CS - IS - 5th Semester - Section B ************
